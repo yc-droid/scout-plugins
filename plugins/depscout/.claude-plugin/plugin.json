@@ -1,0 +1,24 @@
+{
+  "name": "depscout",
+  "displayName": "DepScout",
+  "version": "1.0.0",
+  "description": "Check npm, PyPI, Go, Maven, crates.io and NuGet packages for known vulnerabilities and malware, and audit a project's dependencies for safe upgrade targets.",
+  "author": {
+    "name": "Yash Chowdhury",
+    "email": "yc@salesup.club",
+    "url": "https://depscout.salesup.workers.dev"
+  },
+  "homepage": "https://depscout.salesup.workers.dev",
+  "repository": "https://github.com/yc-droid/scout-plugins",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "vulnerabilities",
+    "dependencies",
+    "npm",
+    "pypi",
+    "cve",
+    "osv",
+    "supply chain"
+  ]
+}

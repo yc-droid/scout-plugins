@@ -1,0 +1,22 @@
+{
+  "name": "grantscout",
+  "displayName": "GrantScout",
+  "version": "1.0.0",
+  "description": "Search open and upcoming US federal grants on Grants.gov, match them to your organization and get eligibility, deadlines and how to apply.",
+  "author": {
+    "name": "Yash Chowdhury",
+    "email": "yc@salesup.club",
+    "url": "https://grantscout.salesup.workers.dev"
+  },
+  "homepage": "https://grantscout.salesup.workers.dev",
+  "repository": "https://github.com/yc-droid/scout-plugins",
+  "license": "MIT",
+  "keywords": [
+    "grants",
+    "funding",
+    "nonprofit",
+    "federal",
+    "grants.gov",
+    "sbir"
+  ]
+}

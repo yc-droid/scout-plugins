@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "depscout": {
+      "type": "http",
+      "url": "https://depscout.salesup.workers.dev/mcp"
+    }
+  }
+}

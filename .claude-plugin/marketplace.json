@@ -1,0 +1,32 @@
+{
+  "name": "scout-plugins",
+  "owner": {
+    "name": "Yash Chowdhury",
+    "email": "yc@salesup.club"
+  },
+  "metadata": {
+    "description": "Scout plugins by Yash Chowdhury: RecallScout, DepScout, GrantScout and FundScout India."
+  },
+  "plugins": [
+    {
+      "name": "recallscout",
+      "source": "./plugins/recallscout",
+      "description": "Check US safety recalls for cars (by VIN or model), child car seats, consumer products and FDA-regulated food, with guided used-car and household recall checks."
+    },
+    {
+      "name": "depscout",
+      "source": "./plugins/depscout",
+      "description": "Check npm, PyPI, Go, Maven, crates.io and NuGet packages for known vulnerabilities and malware, and audit a project's dependencies for safe upgrade targets."
+    },
+    {
+      "name": "grantscout",
+      "source": "./plugins/grantscout",
+      "description": "Search open and upcoming US federal grants on Grants.gov, match them to your organization and get eligibility, deadlines and how to apply."
+    },
+    {
+      "name": "fundscout",
+      "source": "./plugins/fundscout",
+      "description": "Live NAVs, returns, fund comparisons and exact SIP and lumpsum calculations for Indian mutual funds, with guided fund reviews. Factual data only, not investment advice."
+    }
+  ]
+}

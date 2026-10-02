@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "recallscout": {
+      "type": "http",
+      "url": "https://recallscout.salesup.workers.dev/mcp"
+    }
+  }
+}

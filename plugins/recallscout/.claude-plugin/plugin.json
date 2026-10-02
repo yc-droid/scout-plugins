@@ -1,0 +1,24 @@
+{
+  "name": "recallscout",
+  "displayName": "RecallScout",
+  "version": "1.0.0",
+  "description": "Check US safety recalls for cars (by VIN or model), child car seats, consumer products and FDA-regulated food, with guided used-car and household recall checks.",
+  "author": {
+    "name": "Yash Chowdhury",
+    "email": "yc@salesup.club",
+    "url": "https://recallscout.salesup.workers.dev"
+  },
+  "homepage": "https://recallscout.salesup.workers.dev",
+  "repository": "https://github.com/yc-droid/scout-plugins",
+  "license": "MIT",
+  "keywords": [
+    "recalls",
+    "vin",
+    "car seat",
+    "product safety",
+    "food recall",
+    "nhtsa",
+    "cpsc",
+    "fda"
+  ]
+}

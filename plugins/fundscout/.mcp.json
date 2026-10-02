@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fundscout": {
+      "type": "http",
+      "url": "https://fundscout.salesup.workers.dev/mcp"
+    }
+  }
+}

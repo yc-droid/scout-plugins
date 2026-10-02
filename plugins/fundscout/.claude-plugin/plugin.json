@@ -1,0 +1,23 @@
+{
+  "name": "fundscout",
+  "displayName": "FundScout India",
+  "version": "1.0.0",
+  "description": "Live NAVs, returns, fund comparisons and exact SIP and lumpsum calculations for Indian mutual funds, with guided fund reviews. Factual data only, not investment advice.",
+  "author": {
+    "name": "Yash Chowdhury",
+    "email": "yc@salesup.club",
+    "url": "https://fundscout.salesup.workers.dev"
+  },
+  "homepage": "https://fundscout.salesup.workers.dev",
+  "repository": "https://github.com/yc-droid/scout-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mutual funds",
+    "india",
+    "nav",
+    "sip",
+    "xirr",
+    "amfi",
+    "investing"
+  ]
+}
